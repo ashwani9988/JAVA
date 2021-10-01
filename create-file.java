@@ -13,6 +13,7 @@ class AddFriend {
 
 		try { 
 // add comment
+			//new comment
 			// Get the name of the contact to be updated 
 			// from the Command line argument 
 			String newName = data[0]; 
