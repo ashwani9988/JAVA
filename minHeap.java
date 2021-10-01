@@ -7,6 +7,7 @@ public class MinHeap {
 
     public static void minHeap(int[] arr,int i)
     {
+        //comment
       int childIndex=i;
       int parentIndex=(childIndex-1)/2;
       while (childIndex>0)
