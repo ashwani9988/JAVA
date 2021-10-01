@@ -32,6 +32,7 @@ public class MinHeap {
     }
 public static void main(String[] args)
 {
+    //comment
     Scanner sc=new Scanner(System.in);
     int arr[]= {5,3,17,10,84,19,6,22,9};
 
