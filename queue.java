@@ -27,6 +27,7 @@ public int dequeue()
 }
 public static void main(String[] args)
 {
+    //comment
     QueueWithStack queueWithStack=new QueueWithStack();
     queueWithStack.enqueue(1);
     queueWithStack.enqueue(2);
